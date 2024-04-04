@@ -16,7 +16,7 @@
         }
     ],
     "orientation": "any",
-    "display": "standalone",
+    "display": "browser",
     "dir": "auto",
     "lang": "en-GB",
     "name": "Test App",
