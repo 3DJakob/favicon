@@ -1,4 +1,7 @@
 {
+    "name": "My Sample PWA",
+    "lang": "en-US",
+    "start_url": "/",
     "icons": [
         {
             "src": "/favicon/icons/192.png",
